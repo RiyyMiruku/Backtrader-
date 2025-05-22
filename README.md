@@ -13,7 +13,6 @@ stock_data/             # 儲存各商品歷史資料的資料夾（CSV檔）
     ^GSPC.csv
     0050.TW.csv
     ...
-__pycache__/            # Python 編譯暫存
 ```
 
 ## 主要檔案說明
